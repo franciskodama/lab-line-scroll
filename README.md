@@ -1,6 +1,6 @@
 ### Hi there! I'm Francis Kodama! 👋
 
-## WELCOME TO LAB SPACE | Line appears with scroll. 👾
+## WELCOME TO LAB SPACE | Line appears with scroll. 🧪
 
 <hr />
 
@@ -13,13 +13,11 @@ The idea here it's to test a line that will appears using the scroll
 Testing to use someday. :)
 
 </br>
-</br>
 
 ## How?
 
-Some HTML, CSS and Vanilla Javascript.
+HTML, CSS and Vanilla Javascript.
 
-</br>
 </br>
 
 <hr />
