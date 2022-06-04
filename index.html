@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fkodama lab line appears with scroll</title>
+    <meta
+      name="description"
+      content="Lab line appears with scroll | Basic structure was built following Gary Simon's tutorial"
+    />
+    <meta
+      name="title"
+      property="og:title"
+      content="lab line appears with scroll"
+    />
+    <meta property="og:type" content="Space Invaders video game" />
+    <meta
+      name="description"
+      property="og:description"
+      content="Space Invaders by Francis Kodama"
+    />
+    <meta name="author" content="Francis Kodama" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/reset.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <div class="line">
+      <svg
+        viewBox="0 0 978 2090"
+        fill="none"
+        preserveAspectRatio="xMidYMax meet"
+      >
+        <path
+          d="M559 0V446H727V562H861H975V676H53V778H355V720H959V1044H209V934H701V844H3V1276H559V1470H875V1630H559V1750H261V1886H559V2090"
+          stroke="#FF0000"
+          stroke-width="5"
+        />
+      </svg>
+    </div>
+
+    <section class="one">
+      <h1 class="scroll" data-rate=".4" data-direction="vertical">START!</h1>
+    </section>
+
+    <section class="two">
+      <h1 class="scroll" data-rate=".2" data-direction="vertical">THE END</h1>
+      <p>by fkodama</p>
+    </section>
+    <script src="./js/script.js"></script>
+  </body>
+</html>
