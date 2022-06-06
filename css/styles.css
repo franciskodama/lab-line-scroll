@@ -42,12 +42,11 @@ section {
 }
 
 .two {
-  margin-top: 10em;
+  margin-top: 20em;
   background: url(../img/two.jpg);
   background: cover;
   background-repeat: no-repeat;
   background-size: cover;
-  font-size: 6rem;
   position: relative;
   overflow: hidden;
   z-index: -2;
@@ -61,5 +60,5 @@ p {
   left: 50%;
   transform: translate(-50%);
   white-space: nowrap;
-  font-size: 5rem;
+  font-size: 3rem;
 }
