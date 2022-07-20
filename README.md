@@ -10,7 +10,7 @@ The idea here it's to test a line that will appears using the scroll
 
 ## Why?
 
-Testing to use someday. :)
+The process of learning, practicing, practicing again, and testing it in preparation for its eventual use. :)
 
 </br>
 
